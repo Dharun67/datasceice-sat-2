@@ -1,0 +1,291 @@
+support_id,order_id,complaint_category,resolution
+T0001,O00789,Quality Issue,Pending
+T0002,O00347,Quality Issue,Resolved
+T0003,O00091,Other,Escalated
+T0004,O00710,Refund Delay,Pending
+T0005,O00592,Late Delivery,Resolved
+T0006,O00744,Damaged Item,Resolved
+T0007,O00469,Late Delivery,Pending
+T0008,O00254,Quality Issue,Pending
+T0009,O00112,Late Delivery,Pending
+T0010,O00521,Late Delivery,Escalated
+T0011,O00704,Late Delivery,Resolved
+T0012,O00066,Damaged Item,Resolved
+T0013,O00573,Wrong Item,Resolved
+T0014,O00593,Quality Issue,Escalated
+T0015,O00126,Other,Pending
+T0016,O00354,Damaged Item,Escalated
+T0017,O00157,Quality Issue,Resolved
+T0018,O00773,Refund Delay,Resolved
+T0019,O00214,Late Delivery,Resolved
+T0020,O00361,Late Delivery,Pending
+T0021,O00226,Late Delivery,Resolved
+T0022,O00649,Late Delivery,Resolved
+T0023,O00224,Quality Issue,Resolved
+T0024,O00786,Other,Resolved
+T0025,O00384,Quality Issue,Resolved
+T0026,O00075,Late Delivery,Resolved
+T0027,O00742,Damaged Item,Resolved
+T0028,O00012,Late Delivery,Escalated
+T0029,O00021,Late Delivery,Resolved
+T0030,O00216,Refund Delay,Resolved
+T0031,O00743,Refund Delay,Resolved
+T0032,O00547,Other,Resolved
+T0033,O00612,Quality Issue,Resolved
+T0034,O00624,Quality Issue,Resolved
+T0035,O00239,Quality Issue,Resolved
+T0036,O00687,Damaged Item,Resolved
+T0037,O00220,Quality Issue,Pending
+T0038,O00402,Quality Issue,Resolved
+T0039,O00634,Refund Delay,Resolved
+T0040,O00385,Wrong Item,Resolved
+T0041,O00216,Damaged Item,Escalated
+T0042,O00631,Late Delivery,Escalated
+T0043,O00009,Late Delivery,Pending
+T0044,O00404,Quality Issue,Resolved
+T0045,O00806,Other,Resolved
+T0046,O00469,Refund Delay,Resolved
+T0047,O00717,Refund Delay,Resolved
+T0048,O00468,Damaged Item,Resolved
+T0049,O00167,Damaged Item,Resolved
+T0050,O00655,Wrong Item,Resolved
+T0051,O00631,Damaged Item,Resolved
+T0052,O00575,Quality Issue,Resolved
+T0053,O00831,Refund Delay,Resolved
+T0054,O00424,Damaged Item,Pending
+T0055,O00246,Late Delivery,Escalated
+T0056,O00013,Refund Delay,Pending
+T0057,O00821,Other,Pending
+T0058,O00224,Other,Resolved
+T0059,O00113,Late Delivery,Resolved
+T0060,O00162,Late Delivery,Resolved
+T0061,O00730,Damaged Item,Resolved
+T0062,O00808,Late Delivery,Pending
+T0063,O00565,Wrong Item,Resolved
+T0064,O00272,Late Delivery,Resolved
+T0065,O00370,Late Delivery,Resolved
+T0066,O00591,Quality Issue,Resolved
+T0067,O00675,Damaged Item,Pending
+T0068,O00578,Other,Resolved
+T0069,O00444,Wrong Item,Escalated
+T0070,O00300,Other,Resolved
+T0071,O00204,Damaged Item,Resolved
+T0072,O00461,Refund Delay,Resolved
+T0073,O00729,Damaged Item,Pending
+T0074,O00223,Quality Issue,Resolved
+T0075,O00700,Quality Issue,Pending
+T0076,O00477,Late Delivery,Resolved
+T0077,O00732,Refund Delay,Resolved
+T0078,O00687,Late Delivery,Resolved
+T0079,O00250,Other,Resolved
+T0080,O00512,Other,Resolved
+T0081,O00192,Wrong Item,Pending
+T0082,O00394,Wrong Item,Resolved
+T0083,O00678,Other,Escalated
+T0084,O00467,Late Delivery,Resolved
+T0085,O00309,Late Delivery,Resolved
+T0086,O00016,Refund Delay,Resolved
+T0087,O00331,Damaged Item,Resolved
+T0088,O00320,Damaged Item,Resolved
+T0089,O00072,Late Delivery,Resolved
+T0090,O00127,Quality Issue,Pending
+T0091,O00198,Refund Delay,Escalated
+T0092,O00802,Quality Issue,Pending
+T0093,O00553,Quality Issue,Resolved
+T0094,O00624,Refund Delay,Resolved
+T0095,O00618,Late Delivery,Resolved
+T0096,O00807,Late Delivery,Resolved
+T0097,O00218,Other,Escalated
+T0098,O00524,Wrong Item,Resolved
+T0099,O00791,Damaged Item,Pending
+T0100,O00569,Refund Delay,Resolved
+T0101,O00637,Damaged Item,Resolved
+T0102,O00044,Late Delivery,Resolved
+T0103,O00362,Refund Delay,Resolved
+T0104,O00425,Quality Issue,Pending
+T0105,O00054,Other,Resolved
+T0106,O00381,Quality Issue,Pending
+T0107,O00649,Damaged Item,Resolved
+T0108,O00587,Damaged Item,Escalated
+T0109,O00563,Other,Resolved
+T0110,O00004,Late Delivery,Resolved
+T0111,O00812,Refund Delay,Resolved
+T0112,O00835,Late Delivery,Resolved
+T0113,O00065,Quality Issue,Resolved
+T0114,O00353,Late Delivery,Escalated
+T0115,O00796,Late Delivery,Resolved
+T0116,O00273,Wrong Item,Escalated
+T0117,O00239,Wrong Item,Resolved
+T0118,O00534,Other,Pending
+T0119,O00085,Quality Issue,Pending
+T0120,O00086,Quality Issue,Resolved
+T0121,O00722,Quality Issue,Resolved
+T0122,O00056,Damaged Item,Escalated
+T0123,O00393,Quality Issue,Resolved
+T0124,O00288,Quality Issue,Resolved
+T0125,O00341,Quality Issue,Pending
+T0126,O00223,Late Delivery,Resolved
+T0127,O00252,Late Delivery,Resolved
+T0128,O00138,Late Delivery,Pending
+T0129,O00518,Quality Issue,Pending
+T0130,O00761,Damaged Item,Resolved
+T0131,O00194,Wrong Item,Pending
+T0132,O00405,Quality Issue,Resolved
+T0133,O00356,Quality Issue,Escalated
+T0134,O00265,Damaged Item,Resolved
+T0135,O00230,Other,Resolved
+T0136,O00504,Quality Issue,Resolved
+T0137,O00196,Refund Delay,Escalated
+T0138,O00218,Damaged Item,Pending
+T0139,O00279,Refund Delay,Resolved
+T0140,O00662,Refund Delay,Resolved
+T0141,O00247,Refund Delay,Pending
+T0142,O00650,Late Delivery,Resolved
+T0143,O00818,Late Delivery,Resolved
+T0144,O00468,Quality Issue,Pending
+T0145,O00735,Other,Resolved
+T0146,O00667,Wrong Item,Resolved
+T0147,O00791,Damaged Item,Resolved
+T0148,O00782,Wrong Item,Resolved
+T0149,O00143,Other,Escalated
+T0150,O00036,Quality Issue,Pending
+T0151,O00485,Damaged Item,Pending
+T0152,O00445,Late Delivery,Pending
+T0153,O00579,Refund Delay,Resolved
+T0154,O00206,Quality Issue,Escalated
+T0155,O00116,Late Delivery,Resolved
+T0156,O00749,Quality Issue,Pending
+T0157,O00322,Quality Issue,Resolved
+T0158,O00507,Late Delivery,Resolved
+T0159,O00024,Quality Issue,Resolved
+T0160,O00827,Refund Delay,Escalated
+T0161,O00575,Quality Issue,Resolved
+T0162,O00431,Wrong Item,Pending
+T0163,O00395,Other,Pending
+T0164,O00060,Late Delivery,Resolved
+T0165,O00123,Late Delivery,Resolved
+T0166,O00270,Refund Delay,Resolved
+T0167,O00092,Late Delivery,Resolved
+T0168,O00107,Other,Resolved
+T0169,O00283,Refund Delay,Resolved
+T0170,O00135,Late Delivery,Escalated
+T0171,O00715,Wrong Item,Resolved
+T0172,O00208,Late Delivery,Pending
+T0173,O00775,Refund Delay,Resolved
+T0174,O00056,Late Delivery,Resolved
+T0175,O00688,Damaged Item,Resolved
+T0176,O00445,Late Delivery,Pending
+T0177,O00175,Late Delivery,Pending
+T0178,O00457,Quality Issue,Resolved
+T0179,O00289,Wrong Item,Escalated
+T0180,O00785,Late Delivery,Pending
+T0181,O00739,Late Delivery,Pending
+T0182,O00004,Late Delivery,Pending
+T0183,O00547,Refund Delay,Resolved
+T0184,O00436,Refund Delay,Resolved
+T0185,O00173,Quality Issue,Pending
+T0186,O00387,Refund Delay,Resolved
+T0187,O00742,Refund Delay,Resolved
+T0188,O00637,Refund Delay,Resolved
+T0189,O00637,Damaged Item,Pending
+T0190,O00157,Other,Escalated
+T0191,O00812,Other,Pending
+T0192,O00481,Quality Issue,Resolved
+T0193,O00478,Late Delivery,Resolved
+T0194,O00019,Late Delivery,Resolved
+T0195,O00412,Late Delivery,Resolved
+T0196,O00456,Quality Issue,Resolved
+T0197,O00265,Damaged Item,Escalated
+T0198,O00373,Quality Issue,Resolved
+T0199,O00407,Quality Issue,Resolved
+T0200,O00436,Damaged Item,Resolved
+T0201,O00820,Wrong Item,Pending
+T0202,O00056,Other,Resolved
+T0203,O00644,Damaged Item,Resolved
+T0204,O00697,Quality Issue,Resolved
+T0205,O00398,Quality Issue,Resolved
+T0206,O00137,Wrong Item,Pending
+T0207,O00047,Quality Issue,Resolved
+T0208,O00229,Damaged Item,Resolved
+T0209,O00078,Refund Delay,Escalated
+T0210,O00151,Wrong Item,Pending
+T0211,O00298,Refund Delay,Escalated
+T0212,O00615,Damaged Item,Pending
+T0213,O00369,Other,Resolved
+T0214,O00638,Other,Resolved
+T0215,O00817,Refund Delay,Resolved
+T0216,O00370,Wrong Item,Resolved
+T0217,O00637,Refund Delay,Resolved
+T0218,O00805,Late Delivery,Pending
+T0219,O00592,Damaged Item,Resolved
+T0220,O00228,Damaged Item,Resolved
+T0221,O00610,Late Delivery,Escalated
+T0222,O00699,Damaged Item,Resolved
+T0223,O00262,Damaged Item,Pending
+T0224,O00604,Quality Issue,Resolved
+T0225,O00031,Other,Resolved
+T0226,O00557,Late Delivery,Resolved
+T0227,O00688,Quality Issue,Resolved
+T0228,O00653,Damaged Item,Resolved
+T0229,O00037,Quality Issue,Pending
+T0230,O00013,Other,Pending
+T0231,O00633,Quality Issue,Resolved
+T0232,O00072,Refund Delay,Resolved
+T0233,O00145,Wrong Item,Resolved
+T0234,O00415,Late Delivery,Pending
+T0235,O00663,Damaged Item,Resolved
+T0236,O00279,Damaged Item,Resolved
+T0237,O00756,Quality Issue,Pending
+T0238,O00184,Late Delivery,Resolved
+T0239,O00367,Late Delivery,Pending
+T0240,O00533,Refund Delay,Resolved
+T0241,O00610,Damaged Item,Resolved
+T0242,O00029,Damaged Item,Pending
+T0243,O00125,Refund Delay,Resolved
+T0244,O00078,Wrong Item,Pending
+T0245,O00238,Late Delivery,Resolved
+T0246,O00205,Other,Resolved
+T0247,O00836,Late Delivery,Resolved
+T0248,O00032,Damaged Item,Resolved
+T0249,O00326,Refund Delay,Resolved
+T0250,O00192,Quality Issue,Pending
+T0251,O00406,Quality Issue,Resolved
+T0252,O00030,Damaged Item,Resolved
+T0253,O00073,Quality Issue,Resolved
+T0254,O00843,Other,Resolved
+T0255,O00082,Damaged Item,Resolved
+T0256,O00159,Quality Issue,Resolved
+T0257,O00157,Other,Escalated
+T0258,O00785,Quality Issue,Resolved
+T0259,O00209,Quality Issue,Escalated
+T0260,O00221,Other,Resolved
+T0261,O00648,Quality Issue,Resolved
+T0262,O00213,Other,Resolved
+T0263,O00716,Quality Issue,Resolved
+T0264,O00094,Refund Delay,Pending
+T0265,O00808,Damaged Item,Resolved
+T0266,O00475,Late Delivery,Resolved
+T0267,O00187,Wrong Item,Resolved
+T0268,O00789,Quality Issue,Resolved
+T0269,O00436,Late Delivery,Resolved
+T0270,O00641,Quality Issue,Escalated
+T0271,O00006,Refund Delay,Pending
+T0272,O00774,Quality Issue,Resolved
+T0273,O00828,Quality Issue,Pending
+T0274,O00510,Other,Resolved
+T0275,O00233,Wrong Item,Resolved
+T0276,O00166,Quality Issue,Resolved
+T0277,O00826,Quality Issue,Resolved
+T0278,O00281,Late Delivery,Resolved
+T0279,O00732,Late Delivery,Resolved
+T0280,O00075,Late Delivery,Resolved
+T0281,O00044,Late Delivery,Resolved
+T0282,O00850,Damaged Item,Resolved
+T0283,O00404,Other,Resolved
+T0284,O00185,Damaged Item,Resolved
+T0285,O00271,Refund Delay,Resolved
+T0286,O00213,Damaged Item,Pending
+T0287,O00185,Late Delivery,Resolved
+T0288,O00838,Wrong Item,Pending
+T0289,O00162,Refund Delay,Escalated
+T0290,O00342,Other,Resolved

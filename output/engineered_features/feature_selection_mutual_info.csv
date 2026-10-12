@@ -1,0 +1,37 @@
+feature,mutual_info_score
+is_returned,0.01841801830402745
+is_verified,0.017710164479249002
+delivery_days,0.017249807733902944
+has_escalated_support,0.015381554691657362
+primary_complaint_category_Late Delivery,0.013386734070724104
+category_Sports,0.012154511586168315
+actual_word_count,0.01189969661617618
+region_South,0.011782687702329264
+primary_complaint_category_Wrong Item,0.010596645895685874
+delivery_speed_group_Delayed (6+d),0.00997814309718592
+discount_band_Low (5-10%),0.009340994443217898
+discount_pct,0.009271138298020176
+discount_band_Medium (15-20%),0.007821644434957697
+category_Books,0.00753623153554317
+region_North,0.0072205811671886
+tenure_years,0.006191817115507314
+discount_band_High (25-30%),0.0059852166641742865
+category_Electronics,0.005049171226371829
+category_Fashion,0.0045641262764437585
+review_length_capped,0.004495304255054178
+support_ticket_count,0.0031762885927664186
+category_Home & Kitchen,0.0026590704756350725
+delivery_speed_group_Standard (3-5d),0.0017371958991050374
+has_pending_support,0.0014834558402532227
+region_East,0.0009813021252056409
+seller_tenure_group_Established (4-7y),0.00028381148471701145
+actual_char_count,0.0
+has_support_ticket,0.0
+is_weekend,0.0
+avg_word_length,0.0
+price_band_ordinal,0.0
+region_West,0.0
+primary_complaint_category_Quality Issue,0.0
+primary_complaint_category_Other,0.0
+primary_complaint_category_Refund Delay,0.0
+seller_tenure_group_Veteran (>7y),0.0

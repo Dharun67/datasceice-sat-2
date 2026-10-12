@@ -1,0 +1,181 @@
+product_id,product,category,brand,price_band
+P0001,Product 001,Books,UrbanStyle,Mid-range
+P0002,Product 002,Electronics,ActivePeak,Mid-range
+P0003,Product 003,Electronics,ReadMore,Mid-range
+P0004,Product 004,Beauty,ReadMore,Budget
+P0005,Product 005,Books,UrbanStyle,Mid-range
+P0006,Product 006,Fashion,ReadMore,Mid-range
+P0007,Product 007,Electronics,HomeNest,Mid-range
+P0008,Product 008,Home & Kitchen,HomeNest,Budget
+P0009,Product 009,Fashion,ActivePeak,Mid-range
+P0010,Product 010,Books,NovaTech,Budget
+P0011,Product 011,Home & Kitchen,HomeNest,Premium
+P0012,Product 012,Beauty,PureGlow,Mid-range
+P0013,Product 013,Books,PureGlow,Budget
+P0014,Product 014,Home & Kitchen,PureGlow,Mid-range
+P0015,Product 015,Sports,ReadMore,Premium
+P0016,Product 016,Electronics,NovaTech,Mid-range
+P0017,Product 017,Books,NovaTech,Mid-range
+P0018,Product 018,Fashion,UrbanStyle,Mid-range
+P0019,Product 019,Beauty,ReadMore,Budget
+P0020,Product 020,Electronics,ActivePeak,Budget
+P0021,Product 021,Fashion,HomeNest,Budget
+P0022,Product 022,Books,UrbanStyle,Budget
+P0023,Product 023,Sports,ActivePeak,Budget
+P0024,Product 024,Electronics,ReadMore,Premium
+P0025,Product 025,Fashion,ActivePeak,Budget
+P0026,Product 026,Sports,PureGlow,Mid-range
+P0027,Product 027,Sports,ActivePeak,Premium
+P0028,Product 028,Fashion,HomeNest,Premium
+P0029,Product 029,Sports,ActivePeak,Premium
+P0030,Product 030,Beauty,ActivePeak,Mid-range
+P0031,Product 031,Beauty,ReadMore,Premium
+P0032,Product 032,Books,ReadMore,Mid-range
+P0033,Product 033,Beauty,UrbanStyle,Mid-range
+P0034,Product 034,Beauty,ReadMore,Budget
+P0035,Product 035,Sports,UrbanStyle,Mid-range
+P0036,Product 036,Home & Kitchen,PureGlow,Mid-range
+P0037,Product 037,Sports,PureGlow,Budget
+P0038,Product 038,Home & Kitchen,ActivePeak,Mid-range
+P0039,Product 039,Beauty,NovaTech,Budget
+P0040,Product 040,Sports,ActivePeak,Mid-range
+P0041,Product 041,Electronics,ActivePeak,Mid-range
+P0042,Product 042,Electronics,UrbanStyle,Premium
+P0043,Product 043,Electronics,ActivePeak,Budget
+P0044,Product 044,Electronics,ActivePeak,Mid-range
+P0045,Product 045,Beauty,ActivePeak,Budget
+P0046,Product 046,Books,UrbanStyle,Budget
+P0047,Product 047,Sports,NovaTech,Budget
+P0048,Product 048,Sports,ReadMore,Premium
+P0049,Product 049,Sports,PureGlow,Premium
+P0050,Product 050,Electronics,HomeNest,Budget
+P0051,Product 051,Electronics,HomeNest,Mid-range
+P0052,Product 052,Sports,ActivePeak,Premium
+P0053,Product 053,Fashion,HomeNest,Premium
+P0054,Product 054,Beauty,ActivePeak,Mid-range
+P0055,Product 055,Fashion,PureGlow,Budget
+P0056,Product 056,Home & Kitchen,PureGlow,Premium
+P0057,Product 057,Electronics,ActivePeak,Mid-range
+P0058,Product 058,Electronics,NovaTech,Mid-range
+P0059,Product 059,Books,NovaTech,Mid-range
+P0060,Product 060,Books,NovaTech,Budget
+P0061,Product 061,Electronics,ReadMore,Premium
+P0062,Product 062,Home & Kitchen,ActivePeak,Mid-range
+P0063,Product 063,Beauty,ActivePeak,Premium
+P0064,Product 064,Home & Kitchen,HomeNest,Mid-range
+P0065,Product 065,Beauty,ActivePeak,Mid-range
+P0066,Product 066,Home & Kitchen,HomeNest,Budget
+P0067,Product 067,Electronics,ReadMore,Mid-range
+P0068,Product 068,Beauty,NovaTech,Budget
+P0069,Product 069,Electronics,PureGlow,Mid-range
+P0070,Product 070,Beauty,HomeNest,Mid-range
+P0071,Product 071,Sports,HomeNest,Mid-range
+P0072,Product 072,Fashion,UrbanStyle,Budget
+P0073,Product 073,Beauty,ActivePeak,Mid-range
+P0074,Product 074,Home & Kitchen,ActivePeak,Budget
+P0075,Product 075,Sports,UrbanStyle,Mid-range
+P0076,Product 076,Fashion,PureGlow,Mid-range
+P0077,Product 077,Home & Kitchen,ActivePeak,Mid-range
+P0078,Product 078,Electronics,UrbanStyle,Premium
+P0079,Product 079,Books,HomeNest,Mid-range
+P0080,Product 080,Electronics,NovaTech,Mid-range
+P0081,Product 081,Books,NovaTech,Mid-range
+P0082,Product 082,Books,PureGlow,Budget
+P0083,Product 083,Beauty,UrbanStyle,Mid-range
+P0084,Product 084,Electronics,ReadMore,Mid-range
+P0085,Product 085,Electronics,ReadMore,Mid-range
+P0086,Product 086,Sports,ReadMore,Mid-range
+P0087,Product 087,Electronics,UrbanStyle,Premium
+P0088,Product 088,Beauty,NovaTech,Mid-range
+P0089,Product 089,Sports,NovaTech,Mid-range
+P0090,Product 090,Electronics,PureGlow,Premium
+P0091,Product 091,Sports,NovaTech,Mid-range
+P0092,Product 092,Beauty,UrbanStyle,Premium
+P0093,Product 093,Books,NovaTech,Mid-range
+P0094,Product 094,Home & Kitchen,NovaTech,Premium
+P0095,Product 095,Books,ActivePeak,Mid-range
+P0096,Product 096,Fashion,UrbanStyle,Mid-range
+P0097,Product 097,Home & Kitchen,UrbanStyle,Mid-range
+P0098,Product 098,Beauty,ActivePeak,Budget
+P0099,Product 099,Electronics,ActivePeak,Budget
+P0100,Product 100,Home & Kitchen,HomeNest,Budget
+P0101,Product 101,Home & Kitchen,HomeNest,Mid-range
+P0102,Product 102,Fashion,NovaTech,Budget
+P0103,Product 103,Electronics,HomeNest,Budget
+P0104,Product 104,Sports,ActivePeak,Budget
+P0105,Product 105,Books,ReadMore,Budget
+P0106,Product 106,Electronics,HomeNest,Budget
+P0107,Product 107,Beauty,HomeNest,Premium
+P0108,Product 108,Books,ActivePeak,Budget
+P0109,Product 109,Books,NovaTech,Mid-range
+P0110,Product 110,Home & Kitchen,HomeNest,Budget
+P0111,Product 111,Electronics,HomeNest,Premium
+P0112,Product 112,Sports,ActivePeak,Budget
+P0113,Product 113,Home & Kitchen,UrbanStyle,Mid-range
+P0114,Product 114,Electronics,HomeNest,Premium
+P0115,Product 115,Beauty,PureGlow,Budget
+P0116,Product 116,Beauty,UrbanStyle,Budget
+P0117,Product 117,Home & Kitchen,HomeNest,Budget
+P0118,Product 118,Home & Kitchen,PureGlow,Mid-range
+P0119,Product 119,Home & Kitchen,ActivePeak,Mid-range
+P0120,Product 120,Books,PureGlow,Mid-range
+P0121,Product 121,Beauty,ReadMore,Mid-range
+P0122,Product 122,Books,ReadMore,Mid-range
+P0123,Product 123,Electronics,UrbanStyle,Premium
+P0124,Product 124,Fashion,ActivePeak,Budget
+P0125,Product 125,Books,UrbanStyle,Premium
+P0126,Product 126,Books,PureGlow,Budget
+P0127,Product 127,Books,ActivePeak,Mid-range
+P0128,Product 128,Sports,HomeNest,Budget
+P0129,Product 129,Sports,ActivePeak,Budget
+P0130,Product 130,Beauty,ReadMore,Premium
+P0131,Product 131,Fashion,UrbanStyle,Premium
+P0132,Product 132,Books,HomeNest,Mid-range
+P0133,Product 133,Home & Kitchen,ActivePeak,Budget
+P0134,Product 134,Sports,HomeNest,Mid-range
+P0135,Product 135,Fashion,ReadMore,Budget
+P0136,Product 136,Home & Kitchen,ActivePeak,Mid-range
+P0137,Product 137,Sports,ActivePeak,Mid-range
+P0138,Product 138,Fashion,ReadMore,Premium
+P0139,Product 139,Beauty,UrbanStyle,Premium
+P0140,Product 140,Electronics,UrbanStyle,Mid-range
+P0141,Product 141,Fashion,PureGlow,Budget
+P0142,Product 142,Fashion,PureGlow,Premium
+P0143,Product 143,Fashion,ReadMore,Budget
+P0144,Product 144,Fashion,ActivePeak,Budget
+P0145,Product 145,Fashion,PureGlow,Budget
+P0146,Product 146,Books,UrbanStyle,Premium
+P0147,Product 147,Books,ReadMore,Budget
+P0148,Product 148,Electronics,HomeNest,Budget
+P0149,Product 149,Home & Kitchen,ActivePeak,Budget
+P0150,Product 150,Home & Kitchen,NovaTech,Mid-range
+P0151,Product 151,Home & Kitchen,NovaTech,Budget
+P0152,Product 152,Electronics,PureGlow,Mid-range
+P0153,Product 153,Home & Kitchen,UrbanStyle,Mid-range
+P0154,Product 154,Home & Kitchen,ReadMore,Budget
+P0155,Product 155,Electronics,NovaTech,Budget
+P0156,Product 156,Books,NovaTech,Mid-range
+P0157,Product 157,Fashion,UrbanStyle,Budget
+P0158,Product 158,Sports,ActivePeak,Mid-range
+P0159,Product 159,Home & Kitchen,NovaTech,Premium
+P0160,Product 160,Beauty,UrbanStyle,Mid-range
+P0161,Product 161,Electronics,NovaTech,Mid-range
+P0162,Product 162,Home & Kitchen,HomeNest,Budget
+P0163,Product 163,Electronics,ReadMore,Mid-range
+P0164,Product 164,Sports,HomeNest,Budget
+P0165,Product 165,Beauty,HomeNest,Mid-range
+P0166,Product 166,Fashion,HomeNest,Budget
+P0167,Product 167,Fashion,PureGlow,Premium
+P0168,Product 168,Home & Kitchen,ReadMore,Mid-range
+P0169,Product 169,Home & Kitchen,ActivePeak,Mid-range
+P0170,Product 170,Beauty,HomeNest,Mid-range
+P0171,Product 171,Sports,PureGlow,Mid-range
+P0172,Product 172,Fashion,NovaTech,Mid-range
+P0173,Product 173,Sports,PureGlow,Premium
+P0174,Product 174,Electronics,ReadMore,Premium
+P0175,Product 175,Beauty,UrbanStyle,Premium
+P0176,Product 176,Home & Kitchen,PureGlow,Premium
+P0177,Product 177,Sports,NovaTech,Budget
+P0178,Product 178,Beauty,ReadMore,Budget
+P0179,Product 179,Home & Kitchen,PureGlow,Premium
+P0180,Product 180,Home & Kitchen,ActivePeak,Budget

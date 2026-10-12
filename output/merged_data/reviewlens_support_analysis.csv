@@ -1,0 +1,291 @@
+support_id,order_id,complaint_category,resolution,product_id,seller_id,delivery_days,discount_pct,return_flag,is_returned,product,category,brand,price_band,seller,region,tenure_years,order_review_count,order_avg_rating,order_has_low_rating
+T0001,O00789,Quality Issue,Pending,P0165,S022,4,10,No,0,Product 165,Beauty,HomeNest,Mid-range,Seller 22,North,12,2.0,4.0,0.0
+T0002,O00347,Quality Issue,Resolved,P0150,S017,6,20,No,0,Product 150,Home & Kitchen,NovaTech,Mid-range,Seller 17,South,8,2.0,3.5,0.0
+T0003,O00091,Other,Escalated,P0159,S001,3,30,No,0,Product 159,Home & Kitchen,NovaTech,Premium,Seller 01,North,5,3.0,4.666666666666667,0.0
+T0004,O00710,Refund Delay,Pending,P0076,S010,6,30,No,0,Product 076,Fashion,PureGlow,Mid-range,Seller 10,West,10,1.0,3.0,0.0
+T0005,O00592,Late Delivery,Resolved,P0153,S001,3,30,No,0,Product 153,Home & Kitchen,UrbanStyle,Mid-range,Seller 01,North,5,1.0,2.0,1.0
+T0006,O00744,Damaged Item,Resolved,P0125,S004,5,30,No,0,Product 125,Books,UrbanStyle,Premium,Seller 04,North,8,,,
+T0007,O00469,Late Delivery,Pending,P0007,S003,4,15,No,0,Product 007,Electronics,HomeNest,Mid-range,Seller 03,Central,7,3.0,4.666666666666667,0.0
+T0008,O00254,Quality Issue,Pending,P0087,S002,6,10,Yes,1,Product 087,Electronics,UrbanStyle,Premium,Seller 02,Central,12,1.0,3.0,0.0
+T0009,O00112,Late Delivery,Pending,P0123,S023,4,15,No,0,Product 123,Electronics,UrbanStyle,Premium,Seller 23,West,1,1.0,5.0,0.0
+T0010,O00521,Late Delivery,Escalated,P0090,S022,6,20,No,0,Product 090,Electronics,PureGlow,Premium,Seller 22,North,12,2.0,5.0,0.0
+T0011,O00704,Late Delivery,Resolved,P0125,S007,4,10,No,0,Product 125,Books,UrbanStyle,Premium,Seller 07,East,2,,,
+T0012,O00066,Damaged Item,Resolved,P0101,S025,6,25,No,0,Product 101,Home & Kitchen,HomeNest,Mid-range,Seller 25,North,8,1.0,4.0,0.0
+T0013,O00573,Wrong Item,Resolved,P0168,S003,3,5,No,0,Product 168,Home & Kitchen,ReadMore,Mid-range,Seller 03,Central,7,4.0,3.75,0.0
+T0014,O00593,Quality Issue,Escalated,P0082,S015,1,10,No,0,Product 082,Books,PureGlow,Budget,Seller 15,South,10,1.0,5.0,0.0
+T0015,O00126,Other,Pending,P0039,S025,3,15,No,0,Product 039,Beauty,NovaTech,Budget,Seller 25,North,8,1.0,5.0,0.0
+T0016,O00354,Damaged Item,Escalated,P0113,S027,3,0,Yes,1,Product 113,Home & Kitchen,UrbanStyle,Mid-range,Seller 27,West,6,,,
+T0017,O00157,Quality Issue,Resolved,P0178,S002,2,10,No,0,Product 178,Beauty,ReadMore,Budget,Seller 02,Central,12,4.0,3.75,0.0
+T0018,O00773,Refund Delay,Resolved,P0095,S027,6,5,No,0,Product 095,Books,ActivePeak,Mid-range,Seller 27,West,6,,,
+T0019,O00214,Late Delivery,Resolved,P0100,S021,3,20,No,0,Product 100,Home & Kitchen,HomeNest,Budget,Seller 21,South,8,,,
+T0020,O00361,Late Delivery,Pending,P0067,S019,5,15,Yes,1,Product 067,Electronics,ReadMore,Mid-range,Seller 19,East,9,1.0,3.0,0.0
+T0021,O00226,Late Delivery,Resolved,P0145,S002,4,0,No,0,Product 145,Fashion,PureGlow,Budget,Seller 02,Central,12,1.0,5.0,0.0
+T0022,O00649,Late Delivery,Resolved,P0070,S011,3,25,No,0,Product 070,Beauty,HomeNest,Mid-range,Seller 11,South,7,1.0,4.0,0.0
+T0023,O00224,Quality Issue,Resolved,P0002,S024,1,15,Yes,1,Product 002,Electronics,ActivePeak,Mid-range,Seller 24,North,6,,,
+T0024,O00786,Other,Resolved,P0088,S009,7,5,No,0,Product 088,Beauty,NovaTech,Mid-range,Seller 09,East,9,2.0,3.5,1.0
+T0025,O00384,Quality Issue,Resolved,P0102,S021,2,25,Yes,1,Product 102,Fashion,NovaTech,Budget,Seller 21,South,8,,,
+T0026,O00075,Late Delivery,Resolved,P0033,S020,4,0,Yes,1,Product 033,Beauty,UrbanStyle,Mid-range,Seller 20,South,10,,,
+T0027,O00742,Damaged Item,Resolved,P0024,S017,3,25,Yes,1,Product 024,Electronics,ReadMore,Premium,Seller 17,South,8,,,
+T0028,O00012,Late Delivery,Escalated,P0152,S016,8,0,No,0,Product 152,Electronics,PureGlow,Mid-range,Seller 16,Central,7,2.0,3.5,1.0
+T0029,O00021,Late Delivery,Resolved,P0080,S009,3,30,No,0,Product 080,Electronics,NovaTech,Mid-range,Seller 09,East,9,1.0,5.0,0.0
+T0030,O00216,Refund Delay,Resolved,P0071,S002,5,15,No,0,Product 071,Sports,HomeNest,Mid-range,Seller 02,Central,12,2.0,3.0,0.0
+T0031,O00743,Refund Delay,Resolved,P0053,S023,5,0,Yes,1,Product 053,Fashion,HomeNest,Premium,Seller 23,West,1,1.0,3.0,0.0
+T0032,O00547,Other,Resolved,P0156,S018,6,20,No,0,Product 156,Books,NovaTech,Mid-range,Seller 18,North,9,,,
+T0033,O00612,Quality Issue,Resolved,P0082,S015,7,20,Yes,1,Product 082,Books,PureGlow,Budget,Seller 15,South,10,,,
+T0034,O00624,Quality Issue,Resolved,P0116,S005,6,25,Yes,1,Product 116,Beauty,UrbanStyle,Budget,Seller 05,West,6,,,
+T0035,O00239,Quality Issue,Resolved,P0028,S008,1,0,No,0,Product 028,Fashion,HomeNest,Premium,Seller 08,South,2,1.0,4.0,0.0
+T0036,O00687,Damaged Item,Resolved,P0162,S003,3,0,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 03,Central,7,,,
+T0037,O00220,Quality Issue,Pending,P0180,S001,4,15,No,0,Product 180,Home & Kitchen,ActivePeak,Budget,Seller 01,North,5,3.0,4.666666666666667,0.0
+T0038,O00402,Quality Issue,Resolved,P0016,S005,4,10,No,0,Product 016,Electronics,NovaTech,Mid-range,Seller 05,West,6,,,
+T0039,O00634,Refund Delay,Resolved,P0137,S016,2,20,No,0,Product 137,Sports,ActivePeak,Mid-range,Seller 16,Central,7,1.0,5.0,0.0
+T0040,O00385,Wrong Item,Resolved,P0048,S005,5,5,No,0,Product 048,Sports,ReadMore,Premium,Seller 05,West,6,,,
+T0041,O00216,Damaged Item,Escalated,P0071,S002,5,15,No,0,Product 071,Sports,HomeNest,Mid-range,Seller 02,Central,12,2.0,3.0,0.0
+T0042,O00631,Late Delivery,Escalated,P0033,S004,4,0,No,0,Product 033,Beauty,UrbanStyle,Mid-range,Seller 04,North,8,1.0,3.0,0.0
+T0043,O00009,Late Delivery,Pending,P0044,S006,4,25,No,0,Product 044,Electronics,ActivePeak,Mid-range,Seller 06,South,9,1.0,5.0,0.0
+T0044,O00404,Quality Issue,Resolved,P0063,S018,8,20,No,0,Product 063,Beauty,ActivePeak,Premium,Seller 18,North,9,2.0,3.0,1.0
+T0045,O00806,Other,Resolved,P0172,S002,4,5,No,0,Product 172,Fashion,NovaTech,Mid-range,Seller 02,Central,12,3.0,4.0,0.0
+T0046,O00469,Refund Delay,Resolved,P0007,S003,4,15,No,0,Product 007,Electronics,HomeNest,Mid-range,Seller 03,Central,7,3.0,4.666666666666667,0.0
+T0047,O00717,Refund Delay,Resolved,P0156,S019,3,0,No,0,Product 156,Books,NovaTech,Mid-range,Seller 19,East,9,3.0,2.3333333333333335,1.0
+T0048,O00468,Damaged Item,Resolved,P0136,S017,4,5,Yes,1,Product 136,Home & Kitchen,ActivePeak,Mid-range,Seller 17,South,8,2.0,2.0,1.0
+T0049,O00167,Damaged Item,Resolved,P0094,S012,3,30,Yes,1,Product 094,Home & Kitchen,NovaTech,Premium,Seller 12,Central,8,,,
+T0050,O00655,Wrong Item,Resolved,P0012,S027,3,10,No,0,Product 012,Beauty,PureGlow,Mid-range,Seller 27,West,6,2.0,3.5,0.0
+T0051,O00631,Damaged Item,Resolved,P0033,S004,4,0,No,0,Product 033,Beauty,UrbanStyle,Mid-range,Seller 04,North,8,1.0,3.0,0.0
+T0052,O00575,Quality Issue,Resolved,P0129,S017,3,5,No,0,Product 129,Sports,ActivePeak,Budget,Seller 17,South,8,2.0,4.0,0.0
+T0053,O00831,Refund Delay,Resolved,P0065,S014,4,25,No,0,Product 065,Beauty,ActivePeak,Mid-range,Seller 14,South,12,,,
+T0054,O00424,Damaged Item,Pending,P0078,S010,5,30,No,0,Product 078,Electronics,UrbanStyle,Premium,Seller 10,West,10,1.0,4.0,0.0
+T0055,O00246,Late Delivery,Escalated,P0014,S002,3,10,No,0,Product 014,Home & Kitchen,PureGlow,Mid-range,Seller 02,Central,12,1.0,4.0,0.0
+T0056,O00013,Refund Delay,Pending,P0045,S025,4,25,Yes,1,Product 045,Beauty,ActivePeak,Budget,Seller 25,North,8,2.0,3.5,1.0
+T0057,O00821,Other,Pending,P0174,S014,4,30,No,0,Product 174,Electronics,ReadMore,Premium,Seller 14,South,12,,,
+T0058,O00224,Other,Resolved,P0002,S024,1,15,Yes,1,Product 002,Electronics,ActivePeak,Mid-range,Seller 24,North,6,,,
+T0059,O00113,Late Delivery,Resolved,P0168,S026,4,30,No,0,Product 168,Home & Kitchen,ReadMore,Mid-range,Seller 26,West,11,,,
+T0060,O00162,Late Delivery,Resolved,P0020,S026,4,25,Yes,1,Product 020,Electronics,ActivePeak,Budget,Seller 26,West,11,1.0,3.0,0.0
+T0061,O00730,Damaged Item,Resolved,P0124,S007,1,10,No,0,Product 124,Fashion,ActivePeak,Budget,Seller 07,East,2,1.0,3.0,0.0
+T0062,O00808,Late Delivery,Pending,P0135,S023,8,15,No,0,Product 135,Fashion,ReadMore,Budget,Seller 23,West,1,,,
+T0063,O00565,Wrong Item,Resolved,P0020,S007,6,0,No,0,Product 020,Electronics,ActivePeak,Budget,Seller 07,East,2,1.0,4.0,0.0
+T0064,O00272,Late Delivery,Resolved,P0046,S003,5,15,No,0,Product 046,Books,UrbanStyle,Budget,Seller 03,Central,7,1.0,5.0,0.0
+T0065,O00370,Late Delivery,Resolved,P0129,S019,1,30,Yes,1,Product 129,Sports,ActivePeak,Budget,Seller 19,East,9,2.0,4.0,0.0
+T0066,O00591,Quality Issue,Resolved,P0063,S001,6,0,No,0,Product 063,Beauty,ActivePeak,Premium,Seller 01,North,5,2.0,2.0,1.0
+T0067,O00675,Damaged Item,Pending,P0005,S023,3,15,Yes,1,Product 005,Books,UrbanStyle,Mid-range,Seller 23,West,1,3.0,3.0,1.0
+T0068,O00578,Other,Resolved,P0170,S003,7,20,Yes,1,Product 170,Beauty,HomeNest,Mid-range,Seller 03,Central,7,1.0,2.0,1.0
+T0069,O00444,Wrong Item,Escalated,P0081,S020,4,10,Yes,1,Product 081,Books,NovaTech,Mid-range,Seller 20,South,10,1.0,2.0,1.0
+T0070,O00300,Other,Resolved,P0061,S017,3,20,No,0,Product 061,Electronics,ReadMore,Premium,Seller 17,South,8,1.0,4.0,0.0
+T0071,O00204,Damaged Item,Resolved,P0126,S001,2,0,No,0,Product 126,Books,PureGlow,Budget,Seller 01,North,5,1.0,5.0,0.0
+T0072,O00461,Refund Delay,Resolved,P0129,S013,5,15,No,0,Product 129,Sports,ActivePeak,Budget,Seller 13,South,5,,,
+T0073,O00729,Damaged Item,Pending,P0160,S021,7,20,No,0,Product 160,Beauty,UrbanStyle,Mid-range,Seller 21,South,8,2.0,2.0,1.0
+T0074,O00223,Quality Issue,Resolved,P0013,S021,5,30,No,0,Product 013,Books,PureGlow,Budget,Seller 21,South,8,,,
+T0075,O00700,Quality Issue,Pending,P0084,S005,7,10,No,0,Product 084,Electronics,ReadMore,Mid-range,Seller 05,West,6,1.0,4.0,0.0
+T0076,O00477,Late Delivery,Resolved,P0095,S002,3,25,No,0,Product 095,Books,ActivePeak,Mid-range,Seller 02,Central,12,1.0,3.0,0.0
+T0077,O00732,Refund Delay,Resolved,P0143,S008,7,20,Yes,1,Product 143,Fashion,ReadMore,Budget,Seller 08,South,2,5.0,2.2,1.0
+T0078,O00687,Late Delivery,Resolved,P0162,S003,3,0,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 03,Central,7,,,
+T0079,O00250,Other,Resolved,P0061,S022,5,10,No,0,Product 061,Electronics,ReadMore,Premium,Seller 22,North,12,3.0,3.0,1.0
+T0080,O00512,Other,Resolved,P0150,S028,4,30,No,0,Product 150,Home & Kitchen,NovaTech,Mid-range,Seller 28,East,2,,,
+T0081,O00192,Wrong Item,Pending,P0175,S003,4,5,No,0,Product 175,Beauty,UrbanStyle,Premium,Seller 03,Central,7,,,
+T0082,O00394,Wrong Item,Resolved,P0133,S018,6,20,No,0,Product 133,Home & Kitchen,ActivePeak,Budget,Seller 18,North,9,,,
+T0083,O00678,Other,Escalated,P0089,S003,5,25,No,0,Product 089,Sports,NovaTech,Mid-range,Seller 03,Central,7,2.0,5.0,0.0
+T0084,O00467,Late Delivery,Resolved,P0179,S018,4,0,No,0,Product 179,Home & Kitchen,PureGlow,Premium,Seller 18,North,9,,,
+T0085,O00309,Late Delivery,Resolved,P0091,S026,8,0,No,0,Product 091,Sports,NovaTech,Mid-range,Seller 26,West,11,,,
+T0086,O00016,Refund Delay,Resolved,P0107,S003,7,30,No,0,Product 107,Beauty,HomeNest,Premium,Seller 03,Central,7,1.0,5.0,0.0
+T0087,O00331,Damaged Item,Resolved,P0075,S009,7,25,No,0,Product 075,Sports,UrbanStyle,Mid-range,Seller 09,East,9,2.0,2.5,1.0
+T0088,O00320,Damaged Item,Resolved,P0038,S027,4,30,No,0,Product 038,Home & Kitchen,ActivePeak,Mid-range,Seller 27,West,6,2.0,3.5,0.0
+T0089,O00072,Late Delivery,Resolved,P0006,S010,3,25,Yes,1,Product 006,Fashion,ReadMore,Mid-range,Seller 10,West,10,1.0,4.0,0.0
+T0090,O00127,Quality Issue,Pending,P0172,S011,5,15,No,0,Product 172,Fashion,NovaTech,Mid-range,Seller 11,South,7,,,
+T0091,O00198,Refund Delay,Escalated,P0027,S009,5,25,No,0,Product 027,Sports,ActivePeak,Premium,Seller 09,East,9,3.0,3.6666666666666665,0.0
+T0092,O00802,Quality Issue,Pending,P0071,S015,4,30,No,0,Product 071,Sports,HomeNest,Mid-range,Seller 15,South,10,1.0,4.0,0.0
+T0093,O00553,Quality Issue,Resolved,P0053,S003,2,10,Yes,1,Product 053,Fashion,HomeNest,Premium,Seller 03,Central,7,,,
+T0094,O00624,Refund Delay,Resolved,P0116,S005,6,25,Yes,1,Product 116,Beauty,UrbanStyle,Budget,Seller 05,West,6,,,
+T0095,O00618,Late Delivery,Resolved,P0149,S009,6,15,No,0,Product 149,Home & Kitchen,ActivePeak,Budget,Seller 09,East,9,1.0,3.0,0.0
+T0096,O00807,Late Delivery,Resolved,P0022,S022,5,15,No,0,Product 022,Books,UrbanStyle,Budget,Seller 22,North,12,3.0,3.6666666666666665,0.0
+T0097,O00218,Other,Escalated,P0158,S024,2,30,Yes,1,Product 158,Sports,ActivePeak,Mid-range,Seller 24,North,6,,,
+T0098,O00524,Wrong Item,Resolved,P0118,S027,4,30,No,0,Product 118,Home & Kitchen,PureGlow,Mid-range,Seller 27,West,6,2.0,4.5,0.0
+T0099,O00791,Damaged Item,Pending,P0147,S019,5,20,No,0,Product 147,Books,ReadMore,Budget,Seller 19,East,9,,,
+T0100,O00569,Refund Delay,Resolved,P0146,S025,8,10,No,0,Product 146,Books,UrbanStyle,Premium,Seller 25,North,8,4.0,3.75,0.0
+T0101,O00637,Damaged Item,Resolved,P0062,S021,4,0,No,0,Product 062,Home & Kitchen,ActivePeak,Mid-range,Seller 21,South,8,1.0,3.0,0.0
+T0102,O00044,Late Delivery,Resolved,P0045,S016,6,5,Yes,1,Product 045,Beauty,ActivePeak,Budget,Seller 16,Central,7,,,
+T0103,O00362,Refund Delay,Resolved,P0077,S003,1,30,No,0,Product 077,Home & Kitchen,ActivePeak,Mid-range,Seller 03,Central,7,1.0,5.0,0.0
+T0104,O00425,Quality Issue,Pending,P0088,S017,4,20,No,0,Product 088,Beauty,NovaTech,Mid-range,Seller 17,South,8,,,
+T0105,O00054,Other,Resolved,P0041,S010,2,20,No,0,Product 041,Electronics,ActivePeak,Mid-range,Seller 10,West,10,3.0,4.0,0.0
+T0106,O00381,Quality Issue,Pending,P0155,S015,4,5,No,0,Product 155,Electronics,NovaTech,Budget,Seller 15,South,10,1.0,4.0,0.0
+T0107,O00649,Damaged Item,Resolved,P0070,S011,3,25,No,0,Product 070,Beauty,HomeNest,Mid-range,Seller 11,South,7,1.0,4.0,0.0
+T0108,O00587,Damaged Item,Escalated,P0120,S001,4,5,Yes,1,Product 120,Books,PureGlow,Mid-range,Seller 01,North,5,2.0,4.5,0.0
+T0109,O00563,Other,Resolved,P0175,S001,5,5,No,0,Product 175,Beauty,UrbanStyle,Premium,Seller 01,North,5,1.0,4.0,0.0
+T0110,O00004,Late Delivery,Resolved,P0027,S009,5,15,No,0,Product 027,Sports,ActivePeak,Premium,Seller 09,East,9,4.0,3.5,1.0
+T0111,O00812,Refund Delay,Resolved,P0017,S015,2,30,No,0,Product 017,Books,NovaTech,Mid-range,Seller 15,South,10,1.0,2.0,1.0
+T0112,O00835,Late Delivery,Resolved,P0137,S015,5,0,No,0,Product 137,Sports,ActivePeak,Mid-range,Seller 15,South,10,1.0,4.0,0.0
+T0113,O00065,Quality Issue,Resolved,P0134,S015,5,15,No,0,Product 134,Sports,HomeNest,Mid-range,Seller 15,South,10,1.0,4.0,0.0
+T0114,O00353,Late Delivery,Escalated,P0027,S009,4,25,No,0,Product 027,Sports,ActivePeak,Premium,Seller 09,East,9,1.0,4.0,0.0
+T0115,O00796,Late Delivery,Resolved,P0046,S011,6,0,Yes,1,Product 046,Books,UrbanStyle,Budget,Seller 11,South,7,1.0,4.0,0.0
+T0116,O00273,Wrong Item,Escalated,P0139,S013,5,25,Yes,1,Product 139,Beauty,UrbanStyle,Premium,Seller 13,South,5,,,
+T0117,O00239,Wrong Item,Resolved,P0028,S008,1,0,No,0,Product 028,Fashion,HomeNest,Premium,Seller 08,South,2,1.0,4.0,0.0
+T0118,O00534,Other,Pending,P0137,S005,4,10,No,0,Product 137,Sports,ActivePeak,Mid-range,Seller 05,West,6,1.0,4.0,0.0
+T0119,O00085,Quality Issue,Pending,P0115,S014,5,25,No,0,Product 115,Beauty,PureGlow,Budget,Seller 14,South,12,1.0,5.0,0.0
+T0120,O00086,Quality Issue,Resolved,P0113,S026,6,30,No,0,Product 113,Home & Kitchen,UrbanStyle,Mid-range,Seller 26,West,11,1.0,5.0,0.0
+T0121,O00722,Quality Issue,Resolved,P0119,S026,3,0,No,0,Product 119,Home & Kitchen,ActivePeak,Mid-range,Seller 26,West,11,1.0,3.0,0.0
+T0122,O00056,Damaged Item,Escalated,P0162,S026,5,20,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 26,West,11,,,
+T0123,O00393,Quality Issue,Resolved,P0150,S006,5,25,No,0,Product 150,Home & Kitchen,NovaTech,Mid-range,Seller 06,South,9,2.0,5.0,0.0
+T0124,O00288,Quality Issue,Resolved,P0071,S024,4,15,No,0,Product 071,Sports,HomeNest,Mid-range,Seller 24,North,6,2.0,4.5,0.0
+T0125,O00341,Quality Issue,Pending,P0077,S005,5,15,No,0,Product 077,Home & Kitchen,ActivePeak,Mid-range,Seller 05,West,6,,,
+T0126,O00223,Late Delivery,Resolved,P0013,S021,5,30,No,0,Product 013,Books,PureGlow,Budget,Seller 21,South,8,,,
+T0127,O00252,Late Delivery,Resolved,P0067,S019,3,15,No,0,Product 067,Electronics,ReadMore,Mid-range,Seller 19,East,9,,,
+T0128,O00138,Late Delivery,Pending,P0035,S009,5,25,No,0,Product 035,Sports,UrbanStyle,Mid-range,Seller 09,East,9,2.0,3.5,0.0
+T0129,O00518,Quality Issue,Pending,P0035,S022,3,20,No,0,Product 035,Sports,UrbanStyle,Mid-range,Seller 22,North,12,1.0,5.0,0.0
+T0130,O00761,Damaged Item,Resolved,P0035,S017,5,15,No,0,Product 035,Sports,UrbanStyle,Mid-range,Seller 17,South,8,1.0,3.0,0.0
+T0131,O00194,Wrong Item,Pending,P0124,S006,1,10,No,0,Product 124,Fashion,ActivePeak,Budget,Seller 06,South,9,2.0,4.5,0.0
+T0132,O00405,Quality Issue,Resolved,P0044,S026,8,10,No,0,Product 044,Electronics,ActivePeak,Mid-range,Seller 26,West,11,1.0,5.0,0.0
+T0133,O00356,Quality Issue,Escalated,P0164,S011,6,30,No,0,Product 164,Sports,HomeNest,Budget,Seller 11,South,7,,,
+T0134,O00265,Damaged Item,Resolved,P0091,S021,1,30,No,0,Product 091,Sports,NovaTech,Mid-range,Seller 21,South,8,2.0,3.5,0.0
+T0135,O00230,Other,Resolved,P0178,S026,6,25,No,0,Product 178,Beauty,ReadMore,Budget,Seller 26,West,11,2.0,4.5,0.0
+T0136,O00504,Quality Issue,Resolved,P0155,S016,2,15,No,0,Product 155,Electronics,NovaTech,Budget,Seller 16,Central,7,1.0,3.0,0.0
+T0137,O00196,Refund Delay,Escalated,P0137,S022,5,25,Yes,1,Product 137,Sports,ActivePeak,Mid-range,Seller 22,North,12,,,
+T0138,O00218,Damaged Item,Pending,P0158,S024,2,30,Yes,1,Product 158,Sports,ActivePeak,Mid-range,Seller 24,North,6,,,
+T0139,O00279,Refund Delay,Resolved,P0127,S005,4,0,No,0,Product 127,Books,ActivePeak,Mid-range,Seller 05,West,6,,,
+T0140,O00662,Refund Delay,Resolved,P0099,S016,5,20,No,0,Product 099,Electronics,ActivePeak,Budget,Seller 16,Central,7,3.0,3.6666666666666665,0.0
+T0141,O00247,Refund Delay,Pending,P0114,S024,5,25,No,0,Product 114,Electronics,HomeNest,Premium,Seller 24,North,6,3.0,4.666666666666667,0.0
+T0142,O00650,Late Delivery,Resolved,P0054,S018,8,30,No,0,Product 054,Beauty,ActivePeak,Mid-range,Seller 18,North,9,1.0,3.0,0.0
+T0143,O00818,Late Delivery,Resolved,P0057,S024,7,30,No,0,Product 057,Electronics,ActivePeak,Mid-range,Seller 24,North,6,,,
+T0144,O00468,Quality Issue,Pending,P0136,S017,4,5,Yes,1,Product 136,Home & Kitchen,ActivePeak,Mid-range,Seller 17,South,8,2.0,2.0,1.0
+T0145,O00735,Other,Resolved,P0172,S003,6,10,No,0,Product 172,Fashion,NovaTech,Mid-range,Seller 03,Central,7,1.0,4.0,0.0
+T0146,O00667,Wrong Item,Resolved,P0078,S016,7,15,No,0,Product 078,Electronics,UrbanStyle,Premium,Seller 16,Central,7,3.0,3.6666666666666665,0.0
+T0147,O00791,Damaged Item,Resolved,P0147,S019,5,20,No,0,Product 147,Books,ReadMore,Budget,Seller 19,East,9,,,
+T0148,O00782,Wrong Item,Resolved,P0019,S026,6,25,No,0,Product 019,Beauty,ReadMore,Budget,Seller 26,West,11,1.0,4.0,0.0
+T0149,O00143,Other,Escalated,P0047,S022,6,0,No,0,Product 047,Sports,NovaTech,Budget,Seller 22,North,12,1.0,4.0,0.0
+T0150,O00036,Quality Issue,Pending,P0172,S013,7,15,No,0,Product 172,Fashion,NovaTech,Mid-range,Seller 13,South,5,1.0,1.0,1.0
+T0151,O00485,Damaged Item,Pending,P0048,S019,5,20,No,0,Product 048,Sports,ReadMore,Premium,Seller 19,East,9,1.0,4.0,0.0
+T0152,O00445,Late Delivery,Pending,P0117,S009,5,15,Yes,1,Product 117,Home & Kitchen,HomeNest,Budget,Seller 09,East,9,,,
+T0153,O00579,Refund Delay,Resolved,P0122,S011,5,25,No,0,Product 122,Books,ReadMore,Mid-range,Seller 11,South,7,3.0,4.0,0.0
+T0154,O00206,Quality Issue,Escalated,P0047,S021,5,5,No,0,Product 047,Sports,NovaTech,Budget,Seller 21,South,8,2.0,4.0,0.0
+T0155,O00116,Late Delivery,Resolved,P0141,S026,6,5,No,0,Product 141,Fashion,PureGlow,Budget,Seller 26,West,11,,,
+T0156,O00749,Quality Issue,Pending,P0171,S025,3,10,No,0,Product 171,Sports,PureGlow,Mid-range,Seller 25,North,8,,,
+T0157,O00322,Quality Issue,Resolved,P0021,S010,9,20,No,0,Product 021,Fashion,HomeNest,Budget,Seller 10,West,10,1.0,3.0,0.0
+T0158,O00507,Late Delivery,Resolved,P0007,S004,2,25,No,0,Product 007,Electronics,HomeNest,Mid-range,Seller 04,North,8,1.0,3.0,0.0
+T0159,O00024,Quality Issue,Resolved,P0011,S012,6,15,No,0,Product 011,Home & Kitchen,HomeNest,Premium,Seller 12,Central,8,,,
+T0160,O00827,Refund Delay,Escalated,P0176,S012,3,25,No,0,Product 176,Home & Kitchen,PureGlow,Premium,Seller 12,Central,8,1.0,5.0,0.0
+T0161,O00575,Quality Issue,Resolved,P0129,S017,3,5,No,0,Product 129,Sports,ActivePeak,Budget,Seller 17,South,8,2.0,4.0,0.0
+T0162,O00431,Wrong Item,Pending,P0142,S020,6,5,No,0,Product 142,Fashion,PureGlow,Premium,Seller 20,South,10,,,
+T0163,O00395,Other,Pending,P0113,S014,4,15,Yes,1,Product 113,Home & Kitchen,UrbanStyle,Mid-range,Seller 14,South,12,,,
+T0164,O00060,Late Delivery,Resolved,P0091,S011,1,15,No,0,Product 091,Sports,NovaTech,Mid-range,Seller 11,South,7,2.0,4.0,0.0
+T0165,O00123,Late Delivery,Resolved,P0075,S013,3,30,No,0,Product 075,Sports,UrbanStyle,Mid-range,Seller 13,South,5,,,
+T0166,O00270,Refund Delay,Resolved,P0020,S019,5,10,No,0,Product 020,Electronics,ActivePeak,Budget,Seller 19,East,9,2.0,3.0,1.0
+T0167,O00092,Late Delivery,Resolved,P0160,S006,3,15,No,0,Product 160,Beauty,UrbanStyle,Mid-range,Seller 06,South,9,,,
+T0168,O00107,Other,Resolved,P0052,S025,3,25,Yes,1,Product 052,Sports,ActivePeak,Premium,Seller 25,North,8,,,
+T0169,O00283,Refund Delay,Resolved,P0033,S019,6,20,Yes,1,Product 033,Beauty,UrbanStyle,Mid-range,Seller 19,East,9,,,
+T0170,O00135,Late Delivery,Escalated,P0078,S001,7,10,No,0,Product 078,Electronics,UrbanStyle,Premium,Seller 01,North,5,1.0,2.0,1.0
+T0171,O00715,Wrong Item,Resolved,P0063,S012,12,0,Yes,1,Product 063,Beauty,ActivePeak,Premium,Seller 12,Central,8,2.0,2.0,1.0
+T0172,O00208,Late Delivery,Pending,P0032,S011,6,0,Yes,1,Product 032,Books,ReadMore,Mid-range,Seller 11,South,7,3.0,3.0,0.0
+T0173,O00775,Refund Delay,Resolved,P0066,S017,5,10,No,0,Product 066,Home & Kitchen,HomeNest,Budget,Seller 17,South,8,2.0,3.5,0.0
+T0174,O00056,Late Delivery,Resolved,P0162,S026,5,20,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 26,West,11,,,
+T0175,O00688,Damaged Item,Resolved,P0145,S001,5,0,No,0,Product 145,Fashion,PureGlow,Budget,Seller 01,North,5,,,
+T0176,O00445,Late Delivery,Pending,P0117,S009,5,15,Yes,1,Product 117,Home & Kitchen,HomeNest,Budget,Seller 09,East,9,,,
+T0177,O00175,Late Delivery,Pending,P0087,S010,3,0,Yes,1,Product 087,Electronics,UrbanStyle,Premium,Seller 10,West,10,1.0,5.0,0.0
+T0178,O00457,Quality Issue,Resolved,P0017,S017,1,25,No,0,Product 017,Books,NovaTech,Mid-range,Seller 17,South,8,,,
+T0179,O00289,Wrong Item,Escalated,P0010,S011,8,20,No,0,Product 010,Books,NovaTech,Budget,Seller 11,South,7,,,
+T0180,O00785,Late Delivery,Pending,P0002,S007,4,5,No,0,Product 002,Electronics,ActivePeak,Mid-range,Seller 07,East,2,1.0,5.0,0.0
+T0181,O00739,Late Delivery,Pending,P0046,S015,4,0,No,0,Product 046,Books,UrbanStyle,Budget,Seller 15,South,10,1.0,5.0,0.0
+T0182,O00004,Late Delivery,Pending,P0027,S009,5,15,No,0,Product 027,Sports,ActivePeak,Premium,Seller 09,East,9,4.0,3.5,1.0
+T0183,O00547,Refund Delay,Resolved,P0156,S018,6,20,No,0,Product 156,Books,NovaTech,Mid-range,Seller 18,North,9,,,
+T0184,O00436,Refund Delay,Resolved,P0147,S006,6,10,No,0,Product 147,Books,ReadMore,Budget,Seller 06,South,9,,,
+T0185,O00173,Quality Issue,Pending,P0153,S020,2,30,No,0,Product 153,Home & Kitchen,UrbanStyle,Mid-range,Seller 20,South,10,2.0,4.5,0.0
+T0186,O00387,Refund Delay,Resolved,P0003,S013,6,5,No,0,Product 003,Electronics,ReadMore,Mid-range,Seller 13,South,5,1.0,4.0,0.0
+T0187,O00742,Refund Delay,Resolved,P0024,S017,3,25,Yes,1,Product 024,Electronics,ReadMore,Premium,Seller 17,South,8,,,
+T0188,O00637,Refund Delay,Resolved,P0062,S021,4,0,No,0,Product 062,Home & Kitchen,ActivePeak,Mid-range,Seller 21,South,8,1.0,3.0,0.0
+T0189,O00637,Damaged Item,Pending,P0062,S021,4,0,No,0,Product 062,Home & Kitchen,ActivePeak,Mid-range,Seller 21,South,8,1.0,3.0,0.0
+T0190,O00157,Other,Escalated,P0178,S002,2,10,No,0,Product 178,Beauty,ReadMore,Budget,Seller 02,Central,12,4.0,3.75,0.0
+T0191,O00812,Other,Pending,P0017,S015,2,30,No,0,Product 017,Books,NovaTech,Mid-range,Seller 15,South,10,1.0,2.0,1.0
+T0192,O00481,Quality Issue,Resolved,P0161,S003,6,20,No,0,Product 161,Electronics,NovaTech,Mid-range,Seller 03,Central,7,2.0,3.0,0.0
+T0193,O00478,Late Delivery,Resolved,P0072,S002,3,20,No,0,Product 072,Fashion,UrbanStyle,Budget,Seller 02,Central,12,1.0,3.0,0.0
+T0194,O00019,Late Delivery,Resolved,P0062,S005,6,25,Yes,1,Product 062,Home & Kitchen,ActivePeak,Mid-range,Seller 05,West,6,1.0,4.0,0.0
+T0195,O00412,Late Delivery,Resolved,P0017,S019,4,0,No,0,Product 017,Books,NovaTech,Mid-range,Seller 19,East,9,1.0,4.0,0.0
+T0196,O00456,Quality Issue,Resolved,P0041,S021,7,20,No,0,Product 041,Electronics,ActivePeak,Mid-range,Seller 21,South,8,3.0,3.6666666666666665,0.0
+T0197,O00265,Damaged Item,Escalated,P0091,S021,1,30,No,0,Product 091,Sports,NovaTech,Mid-range,Seller 21,South,8,2.0,3.5,0.0
+T0198,O00373,Quality Issue,Resolved,P0102,S020,5,0,Yes,1,Product 102,Fashion,NovaTech,Budget,Seller 20,South,10,1.0,4.0,0.0
+T0199,O00407,Quality Issue,Resolved,P0058,S008,6,0,No,0,Product 058,Electronics,NovaTech,Mid-range,Seller 08,South,2,1.0,5.0,0.0
+T0200,O00436,Damaged Item,Resolved,P0147,S006,6,10,No,0,Product 147,Books,ReadMore,Budget,Seller 06,South,9,,,
+T0201,O00820,Wrong Item,Pending,P0062,S026,2,20,No,0,Product 062,Home & Kitchen,ActivePeak,Mid-range,Seller 26,West,11,1.0,4.0,0.0
+T0202,O00056,Other,Resolved,P0162,S026,5,20,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 26,West,11,,,
+T0203,O00644,Damaged Item,Resolved,P0173,S002,5,30,No,0,Product 173,Sports,PureGlow,Premium,Seller 02,Central,12,,,
+T0204,O00697,Quality Issue,Resolved,P0147,S002,5,10,No,0,Product 147,Books,ReadMore,Budget,Seller 02,Central,12,2.0,4.5,0.0
+T0205,O00398,Quality Issue,Resolved,P0121,S005,5,20,No,0,Product 121,Beauty,ReadMore,Mid-range,Seller 05,West,6,1.0,5.0,0.0
+T0206,O00137,Wrong Item,Pending,P0176,S009,5,15,No,0,Product 176,Home & Kitchen,PureGlow,Premium,Seller 09,East,9,1.0,5.0,0.0
+T0207,O00047,Quality Issue,Resolved,P0173,S017,4,5,No,0,Product 173,Sports,PureGlow,Premium,Seller 17,South,8,,,
+T0208,O00229,Damaged Item,Resolved,P0168,S009,8,5,No,0,Product 168,Home & Kitchen,ReadMore,Mid-range,Seller 09,East,9,1.0,3.0,0.0
+T0209,O00078,Refund Delay,Escalated,P0003,S028,2,25,Yes,1,Product 003,Electronics,ReadMore,Mid-range,Seller 28,East,2,3.0,4.0,0.0
+T0210,O00151,Wrong Item,Pending,P0023,S018,6,25,No,0,Product 023,Sports,ActivePeak,Budget,Seller 18,North,9,,,
+T0211,O00298,Refund Delay,Escalated,P0075,S022,3,25,No,0,Product 075,Sports,UrbanStyle,Mid-range,Seller 22,North,12,1.0,5.0,0.0
+T0212,O00615,Damaged Item,Pending,P0165,S011,1,10,No,0,Product 165,Beauty,HomeNest,Mid-range,Seller 11,South,7,4.0,4.75,0.0
+T0213,O00369,Other,Resolved,P0050,S026,7,15,Yes,1,Product 050,Electronics,HomeNest,Budget,Seller 26,West,11,,,
+T0214,O00638,Other,Resolved,P0162,S026,3,15,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 26,West,11,,,
+T0215,O00817,Refund Delay,Resolved,P0175,S003,5,10,No,0,Product 175,Beauty,UrbanStyle,Premium,Seller 03,Central,7,,,
+T0216,O00370,Wrong Item,Resolved,P0129,S019,1,30,Yes,1,Product 129,Sports,ActivePeak,Budget,Seller 19,East,9,2.0,4.0,0.0
+T0217,O00637,Refund Delay,Resolved,P0062,S021,4,0,No,0,Product 062,Home & Kitchen,ActivePeak,Mid-range,Seller 21,South,8,1.0,3.0,0.0
+T0218,O00805,Late Delivery,Pending,P0032,S004,3,5,No,0,Product 032,Books,ReadMore,Mid-range,Seller 04,North,8,,,
+T0219,O00592,Damaged Item,Resolved,P0153,S001,3,30,No,0,Product 153,Home & Kitchen,UrbanStyle,Mid-range,Seller 01,North,5,1.0,2.0,1.0
+T0220,O00228,Damaged Item,Resolved,P0093,S023,8,0,No,0,Product 093,Books,NovaTech,Mid-range,Seller 23,West,1,1.0,2.0,1.0
+T0221,O00610,Late Delivery,Escalated,P0067,S018,4,25,No,0,Product 067,Electronics,ReadMore,Mid-range,Seller 18,North,9,1.0,5.0,0.0
+T0222,O00699,Damaged Item,Resolved,P0052,S015,11,0,No,0,Product 052,Sports,ActivePeak,Premium,Seller 15,South,10,2.0,1.5,1.0
+T0223,O00262,Damaged Item,Pending,P0162,S021,4,0,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 21,South,8,,,
+T0224,O00604,Quality Issue,Resolved,P0162,S018,7,0,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 18,North,9,1.0,3.0,0.0
+T0225,O00031,Other,Resolved,P0037,S027,3,30,No,0,Product 037,Sports,PureGlow,Budget,Seller 27,West,6,2.0,5.0,0.0
+T0226,O00557,Late Delivery,Resolved,P0092,S014,5,10,No,0,Product 092,Beauty,UrbanStyle,Premium,Seller 14,South,12,1.0,5.0,0.0
+T0227,O00688,Quality Issue,Resolved,P0145,S001,5,0,No,0,Product 145,Fashion,PureGlow,Budget,Seller 01,North,5,,,
+T0228,O00653,Damaged Item,Resolved,P0049,S016,4,20,No,0,Product 049,Sports,PureGlow,Premium,Seller 16,Central,7,2.0,3.5,0.0
+T0229,O00037,Quality Issue,Pending,P0044,S009,4,20,No,0,Product 044,Electronics,ActivePeak,Mid-range,Seller 09,East,9,1.0,2.0,1.0
+T0230,O00013,Other,Pending,P0045,S025,4,25,Yes,1,Product 045,Beauty,ActivePeak,Budget,Seller 25,North,8,2.0,3.5,1.0
+T0231,O00633,Quality Issue,Resolved,P0105,S021,5,25,No,0,Product 105,Books,ReadMore,Budget,Seller 21,South,8,,,
+T0232,O00072,Refund Delay,Resolved,P0006,S010,3,25,Yes,1,Product 006,Fashion,ReadMore,Mid-range,Seller 10,West,10,1.0,4.0,0.0
+T0233,O00145,Wrong Item,Resolved,P0138,S008,3,15,No,0,Product 138,Fashion,ReadMore,Premium,Seller 08,South,2,,,
+T0234,O00415,Late Delivery,Pending,P0086,S012,4,15,Yes,1,Product 086,Sports,ReadMore,Mid-range,Seller 12,Central,8,,,
+T0235,O00663,Damaged Item,Resolved,P0122,S013,4,30,No,0,Product 122,Books,ReadMore,Mid-range,Seller 13,South,5,1.0,5.0,0.0
+T0236,O00279,Damaged Item,Resolved,P0127,S005,4,0,No,0,Product 127,Books,ActivePeak,Mid-range,Seller 05,West,6,,,
+T0237,O00756,Quality Issue,Pending,P0124,S024,8,10,No,0,Product 124,Fashion,ActivePeak,Budget,Seller 24,North,6,4.0,2.75,1.0
+T0238,O00184,Late Delivery,Resolved,P0158,S010,5,10,Yes,1,Product 158,Sports,ActivePeak,Mid-range,Seller 10,West,10,2.0,3.0,1.0
+T0239,O00367,Late Delivery,Pending,P0149,S021,3,10,No,0,Product 149,Home & Kitchen,ActivePeak,Budget,Seller 21,South,8,1.0,4.0,0.0
+T0240,O00533,Refund Delay,Resolved,P0092,S003,5,30,No,0,Product 092,Beauty,UrbanStyle,Premium,Seller 03,Central,7,1.0,3.0,0.0
+T0241,O00610,Damaged Item,Resolved,P0067,S018,4,25,No,0,Product 067,Electronics,ReadMore,Mid-range,Seller 18,North,9,1.0,5.0,0.0
+T0242,O00029,Damaged Item,Pending,P0156,S009,4,5,No,0,Product 156,Books,NovaTech,Mid-range,Seller 09,East,9,,,
+T0243,O00125,Refund Delay,Resolved,P0113,S028,4,25,No,0,Product 113,Home & Kitchen,UrbanStyle,Mid-range,Seller 28,East,2,1.0,3.0,0.0
+T0244,O00078,Wrong Item,Pending,P0003,S028,2,25,Yes,1,Product 003,Electronics,ReadMore,Mid-range,Seller 28,East,2,3.0,4.0,0.0
+T0245,O00238,Late Delivery,Resolved,P0122,S011,5,15,No,0,Product 122,Books,ReadMore,Mid-range,Seller 11,South,7,1.0,4.0,0.0
+T0246,O00205,Other,Resolved,P0158,S008,1,30,No,0,Product 158,Sports,ActivePeak,Mid-range,Seller 08,South,2,1.0,4.0,0.0
+T0247,O00836,Late Delivery,Resolved,P0034,S028,7,5,Yes,1,Product 034,Beauty,ReadMore,Budget,Seller 28,East,2,,,
+T0248,O00032,Damaged Item,Resolved,P0029,S005,3,20,No,0,Product 029,Sports,ActivePeak,Premium,Seller 05,West,6,1.0,3.0,0.0
+T0249,O00326,Refund Delay,Resolved,P0123,S015,6,15,Yes,1,Product 123,Electronics,UrbanStyle,Premium,Seller 15,South,10,3.0,1.6666666666666667,1.0
+T0250,O00192,Quality Issue,Pending,P0175,S003,4,5,No,0,Product 175,Beauty,UrbanStyle,Premium,Seller 03,Central,7,,,
+T0251,O00406,Quality Issue,Resolved,P0113,S021,5,5,No,0,Product 113,Home & Kitchen,UrbanStyle,Mid-range,Seller 21,South,8,3.0,4.333333333333333,0.0
+T0252,O00030,Damaged Item,Resolved,P0101,S008,7,10,No,0,Product 101,Home & Kitchen,HomeNest,Mid-range,Seller 08,South,2,,,
+T0253,O00073,Quality Issue,Resolved,P0177,S023,5,25,No,0,Product 177,Sports,NovaTech,Budget,Seller 23,West,1,1.0,4.0,0.0
+T0254,O00843,Other,Resolved,P0003,S028,6,15,No,0,Product 003,Electronics,ReadMore,Mid-range,Seller 28,East,2,1.0,4.0,0.0
+T0255,O00082,Damaged Item,Resolved,P0029,S003,4,10,Yes,1,Product 029,Sports,ActivePeak,Premium,Seller 03,Central,7,1.0,3.0,0.0
+T0256,O00159,Quality Issue,Resolved,P0161,S022,1,20,No,0,Product 161,Electronics,NovaTech,Mid-range,Seller 22,North,12,1.0,4.0,0.0
+T0257,O00157,Other,Escalated,P0178,S002,2,10,No,0,Product 178,Beauty,ReadMore,Budget,Seller 02,Central,12,4.0,3.75,0.0
+T0258,O00785,Quality Issue,Resolved,P0002,S007,4,5,No,0,Product 002,Electronics,ActivePeak,Mid-range,Seller 07,East,2,1.0,5.0,0.0
+T0259,O00209,Quality Issue,Escalated,P0117,S001,8,25,No,0,Product 117,Home & Kitchen,HomeNest,Budget,Seller 01,North,5,2.0,3.5,0.0
+T0260,O00221,Other,Resolved,P0077,S013,5,20,No,0,Product 077,Home & Kitchen,ActivePeak,Mid-range,Seller 13,South,5,,,
+T0261,O00648,Quality Issue,Resolved,P0166,S021,5,10,No,0,Product 166,Fashion,HomeNest,Budget,Seller 21,South,8,1.0,5.0,0.0
+T0262,O00213,Other,Resolved,P0153,S001,4,15,No,0,Product 153,Home & Kitchen,UrbanStyle,Mid-range,Seller 01,North,5,3.0,3.6666666666666665,0.0
+T0263,O00716,Quality Issue,Resolved,P0167,S028,5,20,No,0,Product 167,Fashion,PureGlow,Premium,Seller 28,East,2,3.0,4.333333333333333,0.0
+T0264,O00094,Refund Delay,Pending,P0004,S007,7,10,No,0,Product 004,Beauty,ReadMore,Budget,Seller 07,East,2,,,
+T0265,O00808,Damaged Item,Resolved,P0135,S023,8,15,No,0,Product 135,Fashion,ReadMore,Budget,Seller 23,West,1,,,
+T0266,O00475,Late Delivery,Resolved,P0143,S019,4,10,No,0,Product 143,Fashion,ReadMore,Budget,Seller 19,East,9,1.0,4.0,0.0
+T0267,O00187,Wrong Item,Resolved,P0050,S008,7,30,No,0,Product 050,Electronics,HomeNest,Budget,Seller 08,South,2,2.0,4.0,0.0
+T0268,O00789,Quality Issue,Resolved,P0165,S022,4,10,No,0,Product 165,Beauty,HomeNest,Mid-range,Seller 22,North,12,2.0,4.0,0.0
+T0269,O00436,Late Delivery,Resolved,P0147,S006,6,10,No,0,Product 147,Books,ReadMore,Budget,Seller 06,South,9,,,
+T0270,O00641,Quality Issue,Escalated,P0020,S021,5,30,Yes,1,Product 020,Electronics,ActivePeak,Budget,Seller 21,South,8,2.0,3.5,1.0
+T0271,O00006,Refund Delay,Pending,P0099,S012,4,20,No,0,Product 099,Electronics,ActivePeak,Budget,Seller 12,Central,8,3.0,3.6666666666666665,0.0
+T0272,O00774,Quality Issue,Resolved,P0074,S027,5,20,No,0,Product 074,Home & Kitchen,ActivePeak,Budget,Seller 27,West,6,7.0,3.4285714285714284,1.0
+T0273,O00828,Quality Issue,Pending,P0159,S017,4,10,No,0,Product 159,Home & Kitchen,NovaTech,Premium,Seller 17,South,8,,,
+T0274,O00510,Other,Resolved,P0119,S004,5,30,Yes,1,Product 119,Home & Kitchen,ActivePeak,Mid-range,Seller 04,North,8,1.0,5.0,0.0
+T0275,O00233,Wrong Item,Resolved,P0078,S022,5,25,Yes,1,Product 078,Electronics,UrbanStyle,Premium,Seller 22,North,12,2.0,1.5,1.0
+T0276,O00166,Quality Issue,Resolved,P0075,S011,5,10,No,0,Product 075,Sports,UrbanStyle,Mid-range,Seller 11,South,7,,,
+T0277,O00826,Quality Issue,Resolved,P0172,S003,8,30,No,0,Product 172,Fashion,NovaTech,Mid-range,Seller 03,Central,7,1.0,3.0,0.0
+T0278,O00281,Late Delivery,Resolved,P0174,S016,2,25,No,0,Product 174,Electronics,ReadMore,Premium,Seller 16,Central,7,2.0,4.5,0.0
+T0279,O00732,Late Delivery,Resolved,P0143,S008,7,20,Yes,1,Product 143,Fashion,ReadMore,Budget,Seller 08,South,2,5.0,2.2,1.0
+T0280,O00075,Late Delivery,Resolved,P0033,S020,4,0,Yes,1,Product 033,Beauty,UrbanStyle,Mid-range,Seller 20,South,10,,,
+T0281,O00044,Late Delivery,Resolved,P0045,S016,6,5,Yes,1,Product 045,Beauty,ActivePeak,Budget,Seller 16,Central,7,,,
+T0282,O00850,Damaged Item,Resolved,P0117,S011,5,15,No,0,Product 117,Home & Kitchen,HomeNest,Budget,Seller 11,South,7,3.0,4.333333333333333,0.0
+T0283,O00404,Other,Resolved,P0063,S018,8,20,No,0,Product 063,Beauty,ActivePeak,Premium,Seller 18,North,9,2.0,3.0,1.0
+T0284,O00185,Damaged Item,Resolved,P0011,S020,4,25,No,0,Product 011,Home & Kitchen,HomeNest,Premium,Seller 20,South,10,4.0,3.75,0.0
+T0285,O00271,Refund Delay,Resolved,P0122,S015,5,25,No,0,Product 122,Books,ReadMore,Mid-range,Seller 15,South,10,,,
+T0286,O00213,Damaged Item,Pending,P0153,S001,4,15,No,0,Product 153,Home & Kitchen,UrbanStyle,Mid-range,Seller 01,North,5,3.0,3.6666666666666665,0.0
+T0287,O00185,Late Delivery,Resolved,P0011,S020,4,25,No,0,Product 011,Home & Kitchen,HomeNest,Premium,Seller 20,South,10,4.0,3.75,0.0
+T0288,O00838,Wrong Item,Pending,P0059,S008,5,5,No,0,Product 059,Books,NovaTech,Mid-range,Seller 08,South,2,1.0,4.0,0.0
+T0289,O00162,Refund Delay,Escalated,P0020,S026,4,25,Yes,1,Product 020,Electronics,ActivePeak,Budget,Seller 26,West,11,1.0,3.0,0.0
+T0290,O00342,Other,Resolved,P0162,S020,8,10,No,0,Product 162,Home & Kitchen,HomeNest,Budget,Seller 20,South,10,1.0,4.0,0.0
